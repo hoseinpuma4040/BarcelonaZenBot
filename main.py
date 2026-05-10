@@ -16,9 +16,7 @@ ADMIN_ID = 7714352436
 # FORMAT:
 # "YEAR-MONTH-DAY": ["HOUR:00"]
 
-reserved_slots = {
-    "2026-05-14": ["18:00", "14:00", "19:00"]
-}
+reserved_slots = {}
 
 
 # USER DATA
